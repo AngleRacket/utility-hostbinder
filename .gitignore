@@ -1,0 +1,6 @@
+*.DotSettings
+*.suo
+.vs/
+*.pdb
+HostBinder/obj/
+HostBinder/bin/
